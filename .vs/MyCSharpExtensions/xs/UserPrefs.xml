@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{ED4DF211-AEFC-41B1-A93E-FA688498D0E7}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExtensionTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyCSharpExtensions" expanded="True" selected="True">
+            <Node name="ExtensionLib" expanded="True" />
+            <Node name="ExtensionTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
