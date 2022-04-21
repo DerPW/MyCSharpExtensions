@@ -3875,32 +3875,43 @@
     ]
   },
   "packageFolders": {
-    "/Users/pw/.nuget/packages/": {}
+    "C:\\Users\\pweid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pw/Projects/MyCSharpExtensions/ExtensionTests/ExtensionTests.csproj",
+      "projectUniqueName": "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionTests\\ExtensionTests.csproj",
       "projectName": "ExtensionTests",
-      "projectPath": "/Users/pw/Projects/MyCSharpExtensions/ExtensionTests/ExtensionTests.csproj",
-      "packagesPath": "/Users/pw/.nuget/packages/",
-      "outputPath": "/Users/pw/Projects/MyCSharpExtensions/ExtensionTests/obj/",
+      "projectPath": "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionTests\\ExtensionTests.csproj",
+      "packagesPath": "C:\\Users\\pweid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionTests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/pw/.config/NuGet/NuGet.Config"
+        "C:\\Users\\pweid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/pw/Projects/MyCSharpExtensions/ExtensionLib/ExtensionLib.csproj": {
-              "projectPath": "/Users/pw/Projects/MyCSharpExtensions/ExtensionLib/ExtensionLib.csproj"
+            "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionLib\\ExtensionLib.csproj": {
+              "projectPath": "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionLib\\ExtensionLib.csproj"
             }
           }
         }
@@ -3949,7 +3960,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300-preview.22154.4\\RuntimeIdentifierGraph.json"
       }
     }
   }

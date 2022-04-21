@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AZVKZB4RRH4OqtjSlndoMhrISKo7OtcTtGrjQXL79zBK16OZj4oQGP5SrBUpMhT6Lu8VTFJ7tnj2EPFhOf9XtA==",
+  "dgSpecHash": "zhMVL/TWq2Si2h/UrbXXHh7qbtaEMzNsWmVA8i4BYgIXBgrnJr8SznQbMjQk+SuByktAk6srXHzvMOKDL8IuRw==",
   "success": true,
-  "projectFilePath": "/Users/pw/Projects/MyCSharpExtensions/ExtensionLib/ExtensionLib.csproj",
+  "projectFilePath": "C:\\Users\\pweid\\Source\\Repos\\MyCSharpExtensions\\ExtensionLib\\ExtensionLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
